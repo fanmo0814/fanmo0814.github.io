@@ -5,6 +5,16 @@
     <link>https://fanmo0814.github.io/</link>
     <description>Recent content on Dr.fan的博客</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://fanmo0814.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Mon, 03 Jan 2022 23:07:44 +0800</lastBuildDate><atom:link href="https://fanmo0814.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>第一个博客</title>
+      <link>https://fanmo0814.github.io/post/myblog/</link>
+      <pubDate>Mon, 03 Jan 2022 23:07:44 +0800</pubDate>
+      
+      <guid>https://fanmo0814.github.io/post/myblog/</guid>
+      <description>title   </description>
+    </item>
+    
   </channel>
 </rss>
